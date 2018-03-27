@@ -14,3 +14,18 @@ if not visited, accumulate the area, and return the max
 为了避免DFS重复计数，对于访问过的1，马上置为0即可。
 注意到DFS是一个递归的过程，所以每一层只需要返回本身的计数（1）以及其子递归返回的计数（由此处出发DFS遍历到的1的个数）<br />的和就可以了。
 
+##### 简洁解法！
+
+[csdn blog](https://blog.csdn.net/wenqiwenqi123/article/details/78219709)
+
+def maxAreaOfIsland(self, grid):  <br />
+     m, n = len(grid), len(grid[0])  <br />
+
+     def dfs(i, j):  <br />
+         if 0 <= i < m and 0 <= j < n and grid[i][j]:  <br />
+             grid[i][j] = 0  <br />
+             return 1 + dfs(i - 1, j) + dfs(i, j + 1) + dfs(i + 1, j) + dfs(i, j - 1)  <br />
+         return 0  <br />
+
+     areas = [dfs(i, j) for i in range(m) for j in range(n) if grid[i][j]]  <br />
+     return max(areas) if areas else 0 <br />
