@@ -1,0 +1,1 @@
+traversal for 2 lists
