@@ -432,7 +432,14 @@
       <option name="project" value="LOCAL" />
       <updated>1522162785285</updated>
     </task>
-    <option name="localTasksCounter" value="26" />
+    <task id="LOCAL-00026" summary="waits for re-implementation by DFS">
+      <created>1522163372918</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1522163372918</updated>
+    </task>
+    <option name="localTasksCounter" value="27" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -506,7 +513,8 @@
     <MESSAGE value="reference for Q.375_medium" />
     <MESSAGE value="python solution for Q.375_medium ***" />
     <MESSAGE value="python solution for Q.349_easy ***" />
-    <option name="LAST_COMMIT_MESSAGE" value="python solution for Q.349_easy ***" />
+    <MESSAGE value="waits for re-implementation by DFS" />
+    <option name="LAST_COMMIT_MESSAGE" value="waits for re-implementation by DFS" />
     <option name="REARRANGE_BEFORE_PROJECT_COMMIT" value="true" />
   </component>
   <component name="XDebuggerManager">
