@@ -4,7 +4,7 @@ class Solution:
         :type grid: List[List[int]]
         :rtype: int
         """
-        h,w = len(grid),len(grid(0))
+        h,w = len(grid),len(grid[0])
 
         def dfs(y,x):
             if 0<=y<h and 0<=x<w and grid[y][x]:
