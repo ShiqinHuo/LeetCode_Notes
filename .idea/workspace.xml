@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2349b7be-9f22-4e60-bbb8-3c4545345be8" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/Breadth_First_Search_Practice/515 Find Largest Value in Each Tree Row/README.md" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/MiniMax_Practice/486 Predict the Winner/README.md" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/MiniMax_Practice/486 Predict the Winner/solution.py" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -11,6 +12,18 @@
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_TABLE_DETAILS" value="true" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <expand />
+    <select />
   </component>
   <component name="FileEditorManager">
     <leaf>
@@ -24,11 +37,31 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="README.md" pinned="false" current-in-tab="true">
+      <file leaf-file-name="README.md" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Breadth_First_Search_Practice/515 Find Largest Value in Each Tree Row/README.md">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="150">
               <caret line="10" column="1" lean-forward="false" selection-start-line="10" selection-start-column="1" selection-end-line="10" selection-end-column="1" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="solution.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/MiniMax_Practice/486 Predict the Winner/solution.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="225">
+              <caret line="15" column="40" lean-forward="false" selection-start-line="15" selection-start-column="40" selection-end-line="15" selection-end-column="40" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="README.md" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/MiniMax_Practice/486 Predict the Winner/README.md">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="150">
+              <caret line="10" column="0" lean-forward="true" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -75,6 +108,8 @@
         <option value="$PROJECT_DIR$/Breadth_First_Search_Practice/107 Binary Tree Level Order Traversal II/README.md" />
         <option value="$PROJECT_DIR$/Breadth_First_Search_Practice/515 Find Largest Value in Each Tree Row/solution.py" />
         <option value="$PROJECT_DIR$/Breadth_First_Search_Practice/515 Find Largest Value in Each Tree Row/README.md" />
+        <option value="$PROJECT_DIR$/MiniMax_Practice/486 Predict the Winner/README.md" />
+        <option value="$PROJECT_DIR$/MiniMax_Practice/486 Predict the Winner/solution.py" />
       </list>
     </option>
   </component>
@@ -85,8 +120,8 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="399" />
-    <option name="y" value="99" />
+    <option name="x" value="62" />
+    <option name="y" value="100" />
     <option name="width" value="1262" />
     <option name="height" value="792" />
   </component>
@@ -122,20 +157,13 @@
             <path>
               <item name="LeetCode_Rookie" type="b2602c69:ProjectViewProjectNode" />
               <item name="LeetCode_Rookie" type="462c0819:PsiDirectoryNode" />
-              <item name="Breadth_First_Search_Practice" type="462c0819:PsiDirectoryNode" />
-              <item name="107 Binary Tree Level Order Traversal II" type="462c0819:PsiDirectoryNode" />
+              <item name="MiniMax_Practice" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="LeetCode_Rookie" type="b2602c69:ProjectViewProjectNode" />
               <item name="LeetCode_Rookie" type="462c0819:PsiDirectoryNode" />
-              <item name="Breadth_First_Search_Practice" type="462c0819:PsiDirectoryNode" />
-              <item name="513 Find Bottom Left Tree Value" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="LeetCode_Rookie" type="b2602c69:ProjectViewProjectNode" />
-              <item name="LeetCode_Rookie" type="462c0819:PsiDirectoryNode" />
-              <item name="Breadth_First_Search_Practice" type="462c0819:PsiDirectoryNode" />
-              <item name="515 Find Largest Value in Each Tree Row" type="462c0819:PsiDirectoryNode" />
+              <item name="MiniMax_Practice" type="462c0819:PsiDirectoryNode" />
+              <item name="486 Predict the Winner" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -229,11 +257,18 @@
       <option name="project" value="LOCAL" />
       <updated>1522146905588</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="Reasoning for Q.515_medium">
+      <created>1522147081341</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1522147081341</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="399" y="99" width="1262" height="792" extended-state="0" />
+    <frame x="62" y="100" width="1262" height="792" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -244,7 +279,7 @@
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32998565" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.21639344" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.0" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="SciView" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -270,7 +305,8 @@
     <MESSAGE value="revised workspace.xml" />
     <MESSAGE value="Reasoning for Q.107" />
     <MESSAGE value="python solution for Q.515_medium" />
-    <option name="LAST_COMMIT_MESSAGE" value="python solution for Q.515_medium" />
+    <MESSAGE value="Reasoning for Q.515_medium" />
+    <option name="LAST_COMMIT_MESSAGE" value="Reasoning for Q.515_medium" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -329,6 +365,22 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="150">
           <caret line="10" column="1" lean-forward="false" selection-start-line="10" selection-start-column="1" selection-end-line="10" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MiniMax_Practice/486 Predict the Winner/solution.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="15" column="40" lean-forward="false" selection-start-line="15" selection-start-column="40" selection-end-line="15" selection-end-column="40" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MiniMax_Practice/486 Predict the Winner/README.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" column="0" lean-forward="true" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
           <folding />
         </state>
       </provider>
