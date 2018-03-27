@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2349b7be-9f22-4e60-bbb8-3c4545345be8" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/Breadth_First_Search_Practice/513 Find Bottom Left Tree Value/solution.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Breadth_First_Search_Practice/107 Binary Tree Level Order Traversal II/solution.py" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -18,23 +18,50 @@
         <entry file="file://$PROJECT_DIR$/README.md">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="15">
-              <caret line="1" column="0" lean-forward="true" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
+              <caret line="1" column="0" lean-forward="false" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="README.md" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Breadth_First_Search_Practice/513 Find Bottom Left Tree Value/README.md">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="105">
+              <caret line="7" column="18" lean-forward="true" selection-start-line="7" selection-start-column="18" selection-end-line="7" selection-end-column="18" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="solution.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Breadth_First_Search_Practice/513 Find Bottom Left Tree Value/solution.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="345">
+              <caret line="23" column="34" lean-forward="true" selection-start-line="23" selection-start-column="34" selection-end-line="23" selection-end-column="34" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
       <file leaf-file-name="solution.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Breadth_First_Search_Practice/513 Find Bottom Left Tree Value/solution.py">
+        <entry file="file://$PROJECT_DIR$/Breadth_First_Search_Practice/107 Binary Tree Level Order Traversal II/solution.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="105">
-              <caret line="7" column="0" lean-forward="false" selection-start-line="7" selection-start-column="0" selection-end-line="25" selection-end-column="21" />
+            <state relative-caret-position="132">
+              <caret line="17" column="33" lean-forward="true" selection-start-line="17" selection-start-column="33" selection-end-line="17" selection-end-column="33" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
     </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -43,6 +70,8 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/Breadth_First_Search_Practice/513 Find Bottom Left Tree Value/solution.py" />
+        <option value="$PROJECT_DIR$/Breadth_First_Search_Practice/513 Find Bottom Left Tree Value/README.md" />
+        <option value="$PROJECT_DIR$/Breadth_First_Search_Practice/107 Binary Tree Level Order Traversal II/solution.py" />
       </list>
     </option>
   </component>
@@ -53,9 +82,9 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="436" />
-    <option name="y" value="63" />
-    <option name="width" value="1056" />
+    <option name="x" value="97" />
+    <option name="y" value="114" />
+    <option name="width" value="1262" />
     <option name="height" value="792" />
   </component>
   <component name="ProjectView">
@@ -86,6 +115,18 @@
               <item name="LeetCode_Rookie" type="b2602c69:ProjectViewProjectNode" />
               <item name="LeetCode_Rookie" type="462c0819:PsiDirectoryNode" />
               <item name="Breadth_First_Search_Practice" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="LeetCode_Rookie" type="b2602c69:ProjectViewProjectNode" />
+              <item name="LeetCode_Rookie" type="462c0819:PsiDirectoryNode" />
+              <item name="Breadth_First_Search_Practice" type="462c0819:PsiDirectoryNode" />
+              <item name="107 Binary Tree Level Order Traversal II" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="LeetCode_Rookie" type="b2602c69:ProjectViewProjectNode" />
+              <item name="LeetCode_Rookie" type="462c0819:PsiDirectoryNode" />
+              <item name="Breadth_First_Search_Practice" type="462c0819:PsiDirectoryNode" />
+              <item name="513 Find Bottom Left Tree Value" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -123,10 +164,46 @@
       <option name="presentableId" value="Default" />
       <updated>1522142666035</updated>
     </task>
+    <task id="LOCAL-00001" summary="Reasoning STEPS">
+      <created>1522144452892</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1522144452892</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Reasoning STEPS">
+      <created>1522144527981</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1522144527981</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Reasoning STEPS">
+      <created>1522144560052</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1522144560052</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Reasoning STEPS">
+      <created>1522144607438</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1522144607438</updated>
+    </task>
+    <task id="LOCAL-00005" summary="python solution for Q.107_easy">
+      <created>1522146115970</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1522146115970</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="436" y="63" width="1056" height="792" extended-state="0" />
+    <frame x="97" y="114" width="1262" height="792" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -134,8 +211,8 @@
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32998565" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.21639344" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="SciView" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
@@ -157,6 +234,11 @@
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Reasoning STEPS" />
+    <MESSAGE value="python solution for Q.107_easy" />
+    <option name="LAST_COMMIT_MESSAGE" value="python solution for Q.107_easy" />
+  </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
     <watches-manager />
@@ -165,15 +247,31 @@
     <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="15">
-          <caret line="1" column="0" lean-forward="true" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
+          <caret line="1" column="0" lean-forward="false" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Breadth_First_Search_Practice/513 Find Bottom Left Tree Value/solution.py">
       <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="345">
+          <caret line="23" column="34" lean-forward="true" selection-start-line="23" selection-start-column="34" selection-end-line="23" selection-end-column="34" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Breadth_First_Search_Practice/513 Find Bottom Left Tree Value/README.md">
+      <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="105">
-          <caret line="7" column="0" lean-forward="false" selection-start-line="7" selection-start-column="0" selection-end-line="25" selection-end-column="21" />
+          <caret line="7" column="18" lean-forward="true" selection-start-line="7" selection-start-column="18" selection-end-line="7" selection-end-column="18" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Breadth_First_Search_Practice/107 Binary Tree Level Order Traversal II/solution.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="132">
+          <caret line="17" column="33" lean-forward="true" selection-start-line="17" selection-start-column="33" selection-end-line="17" selection-end-column="33" />
           <folding />
         </state>
       </provider>
