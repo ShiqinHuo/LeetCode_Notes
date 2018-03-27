@@ -2,9 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2349b7be-9f22-4e60-bbb8-3c4545345be8" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/MiniMax_Practice/486 Predict the Winner/README.md" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/MiniMax_Practice/486 Predict the Winner/solution.py" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change beforePath="$PROJECT_DIR$/MiniMax_Practice/486 Predict the Winner/README.md" afterPath="$PROJECT_DIR$/MiniMax_Practice/486 Predict the Winner/README.md" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -60,8 +59,8 @@
       <file leaf-file-name="README.md" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/MiniMax_Practice/486 Predict the Winner/README.md">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="150">
-              <caret line="10" column="0" lean-forward="true" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
+            <state relative-caret-position="60">
+              <caret line="4" column="22" lean-forward="true" selection-start-line="4" selection-start-column="22" selection-end-line="4" selection-end-column="22" />
               <folding />
             </state>
           </provider>
@@ -108,8 +107,8 @@
         <option value="$PROJECT_DIR$/Breadth_First_Search_Practice/107 Binary Tree Level Order Traversal II/README.md" />
         <option value="$PROJECT_DIR$/Breadth_First_Search_Practice/515 Find Largest Value in Each Tree Row/solution.py" />
         <option value="$PROJECT_DIR$/Breadth_First_Search_Practice/515 Find Largest Value in Each Tree Row/README.md" />
-        <option value="$PROJECT_DIR$/MiniMax_Practice/486 Predict the Winner/README.md" />
         <option value="$PROJECT_DIR$/MiniMax_Practice/486 Predict the Winner/solution.py" />
+        <option value="$PROJECT_DIR$/MiniMax_Practice/486 Predict the Winner/README.md" />
       </list>
     </option>
   </component>
@@ -120,8 +119,8 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="62" />
-    <option name="y" value="100" />
+    <option name="x" value="77" />
+    <option name="y" value="372" />
     <option name="width" value="1262" />
     <option name="height" value="792" />
   </component>
@@ -271,11 +270,25 @@
       <option name="project" value="LOCAL" />
       <updated>1522154325515</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="python solution for Q.486_medium">
+      <created>1522154357616</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1522154357616</updated>
+    </task>
+    <task id="LOCAL-00012" summary="python solution for Q.486_medium">
+      <created>1522154673698</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1522154673698</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="62" y="100" width="1262" height="792" extended-state="0" />
+    <frame x="77" y="372" width="1262" height="792" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -314,7 +327,9 @@
     <MESSAGE value="python solution for Q.515_medium" />
     <MESSAGE value="Reasoning for Q.515_medium" />
     <MESSAGE value="Reasoning for Q.486_medium" />
-    <option name="LAST_COMMIT_MESSAGE" value="Reasoning for Q.486_medium" />
+    <MESSAGE value="python solution for Q.486_medium" />
+    <option name="LAST_COMMIT_MESSAGE" value="python solution for Q.486_medium" />
+    <option name="REARRANGE_BEFORE_PROJECT_COMMIT" value="true" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -387,8 +402,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/MiniMax_Practice/486 Predict the Winner/README.md">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="10" column="0" lean-forward="true" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
+        <state relative-caret-position="60">
+          <caret line="4" column="22" lean-forward="true" selection-start-line="4" selection-start-column="22" selection-end-line="4" selection-end-column="22" />
           <folding />
         </state>
       </provider>

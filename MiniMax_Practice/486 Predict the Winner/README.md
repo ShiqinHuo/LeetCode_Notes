@@ -1,5 +1,5 @@
 reference:
-[bookshadow LeetCode解题报告]（http://bookshadow.com/weblog/2017/01/22/leetcode-predict-the-winner/）
+[bookshadow LeetCode解题报告](http://bookshadow.com/weblog/2017/01/22/leetcode-predict-the-winner/)
 
 ## 解题思路：
 ### Alpha-Beta搜索 + 记忆化
