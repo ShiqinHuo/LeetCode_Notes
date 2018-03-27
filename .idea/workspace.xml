@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2349b7be-9f22-4e60-bbb8-3c4545345be8" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/Breadth_First_Search_Practice/107 Binary Tree Level Order Traversal II/solution.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Breadth_First_Search_Practice/107 Binary Tree Level Order Traversal II/README.md" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -27,8 +27,8 @@
       <file leaf-file-name="README.md" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Breadth_First_Search_Practice/513 Find Bottom Left Tree Value/README.md">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="105">
-              <caret line="7" column="18" lean-forward="true" selection-start-line="7" selection-start-column="18" selection-end-line="7" selection-end-column="18" />
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="7" selection-end-column="67" />
               <folding />
             </state>
           </provider>
@@ -44,11 +44,21 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="solution.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="solution.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Breadth_First_Search_Practice/107 Binary Tree Level Order Traversal II/solution.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="132">
+            <state relative-caret-position="72">
               <caret line="17" column="33" lean-forward="true" selection-start-line="17" selection-start-column="33" selection-end-line="17" selection-end-column="33" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="README.md" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Breadth_First_Search_Practice/107 Binary Tree Level Order Traversal II/README.md">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="150">
+              <caret line="10" column="14" lean-forward="true" selection-start-line="10" selection-start-column="14" selection-end-line="10" selection-end-column="14" />
               <folding />
             </state>
           </provider>
@@ -72,6 +82,7 @@
         <option value="$PROJECT_DIR$/Breadth_First_Search_Practice/513 Find Bottom Left Tree Value/solution.py" />
         <option value="$PROJECT_DIR$/Breadth_First_Search_Practice/513 Find Bottom Left Tree Value/README.md" />
         <option value="$PROJECT_DIR$/Breadth_First_Search_Practice/107 Binary Tree Level Order Traversal II/solution.py" />
+        <option value="$PROJECT_DIR$/Breadth_First_Search_Practice/107 Binary Tree Level Order Traversal II/README.md" />
       </list>
     </option>
   </component>
@@ -199,7 +210,14 @@
       <option name="project" value="LOCAL" />
       <updated>1522146115970</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="revised workspace.xml">
+      <created>1522146133077</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1522146133077</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -237,7 +255,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Reasoning STEPS" />
     <MESSAGE value="python solution for Q.107_easy" />
-    <option name="LAST_COMMIT_MESSAGE" value="python solution for Q.107_easy" />
+    <MESSAGE value="revised workspace.xml" />
+    <option name="LAST_COMMIT_MESSAGE" value="revised workspace.xml" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -260,18 +279,26 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Breadth_First_Search_Practice/513 Find Bottom Left Tree Value/README.md">
+    <entry file="file://$PROJECT_DIR$/Breadth_First_Search_Practice/107 Binary Tree Level Order Traversal II/solution.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="7" column="18" lean-forward="true" selection-start-line="7" selection-start-column="18" selection-end-line="7" selection-end-column="18" />
+        <state relative-caret-position="72">
+          <caret line="17" column="33" lean-forward="true" selection-start-line="17" selection-start-column="33" selection-end-line="17" selection-end-column="33" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Breadth_First_Search_Practice/107 Binary Tree Level Order Traversal II/solution.py">
+    <entry file="file://$PROJECT_DIR$/Breadth_First_Search_Practice/513 Find Bottom Left Tree Value/README.md">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="132">
-          <caret line="17" column="33" lean-forward="true" selection-start-line="17" selection-start-column="33" selection-end-line="17" selection-end-column="33" />
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="7" selection-end-column="67" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Breadth_First_Search_Practice/107 Binary Tree Level Order Traversal II/README.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" column="14" lean-forward="true" selection-start-line="10" selection-start-column="14" selection-end-line="10" selection-end-column="14" />
           <folding />
         </state>
       </provider>
