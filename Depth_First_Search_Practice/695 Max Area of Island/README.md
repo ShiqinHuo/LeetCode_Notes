@@ -18,14 +18,14 @@ if not visited, accumulate the area, and return the max
 
 [csdn blog](https://blog.csdn.net/wenqiwenqi123/article/details/78219709)
 
-def maxAreaOfIsland(self, grid):  <br />
-     m, n = len(grid), len(grid[0])  <br />
+def maxAreaOfIsland(self, grid):
+     m, n = len(grid), len(grid[0])
 
-     def dfs(i, j):  <br />
-         if 0 <= i < m and 0 <= j < n and grid[i][j]:  <br />
-             grid[i][j] = 0  <br />
-             return 1 + dfs(i - 1, j) + dfs(i, j + 1) + dfs(i + 1, j) + dfs(i, j - 1)  <br />
-         return 0  <br />
+     def dfs(i, j):
+         if 0 <= i < m and 0 <= j < n and grid[i][j]:
+             grid[i][j] = 0
+             return 1 + dfs(i - 1, j) + dfs(i, j + 1) + dfs(i + 1, j) + dfs(i, j - 1)
+         return 0
 
-     areas = [dfs(i, j) for i in range(m) for j in range(n) if grid[i][j]]  <br />
-     return max(areas) if areas else 0 <br />
+     areas = [dfs(i, j) for i in range(m) for j in range(n) if grid[i][j]]
+     return max(areas) if areas else 0 
