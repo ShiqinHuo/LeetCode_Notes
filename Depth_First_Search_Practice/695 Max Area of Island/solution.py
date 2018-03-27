@@ -6,27 +6,26 @@ class Solution:
         """
         h = len(grid)  # y
         w = len(grid[0])  # x
-        global w, h
         areas = []
+        global w, h
         for i in range(h):  # y
             for j in range(w):  # x
                 if grid[i][j] == 1:  # y x
                     parent = [Pos(j, i)]
-                    visited = [Pos(j, i)]
-                    return self.sum_area(parent, areas, grid, visited)
+                    grid[i][j] = 0
+                    return self.sum_area(parent, areas, grid)
         return max(areas)
 
-    def sum_area(self, parent, areas, grid, visited):
+    def sum_area(self, parent, areas, grid):
         area = 1
         while len(parent) != 0:
             for p in parent:
-                if p not in visited:
-                    visited.append(p)
                 valid_child = []
                 for n in self.neighbour(p):
-                    if grid[n.y][n.x] == 1 and Pos(n.x, n.y) not in visited:
+                    if grid[n.y][n.x] == 1:
                         area += 1
                         valid_child.append(n)
+                        grid[n.y][n.x] = 0
                 parent = valid_child
         areas.append(area)
 
