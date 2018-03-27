@@ -1,9 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="2349b7be-9f22-4e60-bbb8-3c4545345be8" name="Default" comment="">
+    <list default="true" id="2349b7be-9f22-4e60-bbb8-3c4545345be8" name="Default" comment="elegant solution!!! - Q.695">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change beforePath="$PROJECT_DIR$/Depth_First_Search_Practice/695 Max Area of Island/README.md" afterPath="$PROJECT_DIR$/Depth_First_Search_Practice/695 Max Area of Island/README.md" />
+      <change beforePath="$PROJECT_DIR$/Depth_First_Search_Practice/695 Max Area of Island/solution.py" afterPath="$PROJECT_DIR$/Depth_First_Search_Practice/695 Max Area of Island/solution.py" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -106,21 +107,21 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="README.md" pinned="false" current-in-tab="true">
+      <file leaf-file-name="README.md" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Depth_First_Search_Practice/695 Max Area of Island/README.md">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="285">
-              <caret line="19" column="0" lean-forward="true" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
+            <state relative-caret-position="270">
+              <caret line="18" column="44" lean-forward="true" selection-start-line="18" selection-start-column="44" selection-end-line="18" selection-end-column="44" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="solution.py" pinned="false" current-in-tab="false">
+      <file leaf-file-name="solution.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Depth_First_Search_Practice/695 Max Area of Island/solution.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="312">
-              <caret line="25" column="33" lean-forward="true" selection-start-line="25" selection-start-column="33" selection-end-line="25" selection-end-column="33" />
+            <state relative-caret-position="225">
+              <caret line="15" column="63" lean-forward="false" selection-start-line="15" selection-start-column="63" selection-end-line="15" selection-end-column="63" />
               <folding />
             </state>
           </provider>
@@ -159,8 +160,8 @@
         <option value="$PROJECT_DIR$/Depth_First_Search_Practice/104 Maximum Depth of Binary Tree/README.md" />
         <option value="$PROJECT_DIR$/Depth_First_Search_Practice/104 Maximum Depth of Binary Tree/solution.py" />
         <option value="$PROJECT_DIR$/README.md" />
-        <option value="$PROJECT_DIR$/Depth_First_Search_Practice/695 Max Area of Island/solution.py" />
         <option value="$PROJECT_DIR$/Depth_First_Search_Practice/695 Max Area of Island/README.md" />
+        <option value="$PROJECT_DIR$/Depth_First_Search_Practice/695 Max Area of Island/solution.py" />
       </list>
     </option>
   </component>
@@ -171,8 +172,8 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="77" />
-    <option name="y" value="23" />
+    <option name="x" value="175" />
+    <option name="y" value="68" />
     <option name="width" value="1224" />
     <option name="height" value="877" />
   </component>
@@ -533,11 +534,18 @@
       <option name="project" value="LOCAL" />
       <updated>1522176878935</updated>
     </task>
-    <option name="localTasksCounter" value="39" />
+    <task id="LOCAL-00039" summary="elegant solution!!! - Q.695">
+      <created>1522176928634</created>
+      <option name="number" value="00039" />
+      <option name="presentableId" value="LOCAL-00039" />
+      <option name="project" value="LOCAL" />
+      <updated>1522176928634</updated>
+    </task>
+    <option name="localTasksCounter" value="40" />
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="77" y="23" width="1224" height="877" extended-state="0" />
+    <frame x="175" y="68" width="1224" height="877" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -591,7 +599,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Reasoning STEPS" />
     <MESSAGE value="python solution for Q.107_easy" />
     <MESSAGE value="revised workspace.xml" />
     <MESSAGE value="Reasoning for Q.107" />
@@ -616,7 +623,8 @@
     <MESSAGE value="bugs here - Q.695" />
     <MESSAGE value="elegant idea!! - Q.695" />
     <MESSAGE value="elegant code!!! - Q.695" />
-    <option name="LAST_COMMIT_MESSAGE" value="elegant code!!! - Q.695" />
+    <MESSAGE value="elegant solution!!! - Q.695" />
+    <option name="LAST_COMMIT_MESSAGE" value="elegant solution!!! - Q.695" />
     <option name="REARRANGE_BEFORE_PROJECT_COMMIT" value="true" />
   </component>
   <component name="XDebuggerManager">
@@ -931,18 +939,18 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Depth_First_Search_Practice/695 Max Area of Island/solution.py">
+    <entry file="file://$PROJECT_DIR$/Depth_First_Search_Practice/695 Max Area of Island/README.md">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="312">
-          <caret line="25" column="33" lean-forward="true" selection-start-line="25" selection-start-column="33" selection-end-line="25" selection-end-column="33" />
+        <state relative-caret-position="270">
+          <caret line="18" column="44" lean-forward="true" selection-start-line="18" selection-start-column="44" selection-end-line="18" selection-end-column="44" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Depth_First_Search_Practice/695 Max Area of Island/README.md">
+    <entry file="file://$PROJECT_DIR$/Depth_First_Search_Practice/695 Max Area of Island/solution.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="285">
-          <caret line="19" column="0" lean-forward="true" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
+        <state relative-caret-position="225">
+          <caret line="15" column="63" lean-forward="false" selection-start-line="15" selection-start-column="63" selection-end-line="15" selection-end-column="63" />
           <folding />
         </state>
       </provider>
