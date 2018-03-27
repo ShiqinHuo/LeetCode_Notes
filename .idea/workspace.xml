@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="2349b7be-9f22-4e60-bbb8-3c4545345be8" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/MiniMax_Practice/375 Guess Number Higher or Lower 2/README.md" afterPath="$PROJECT_DIR$/MiniMax_Practice/375 Guess Number Higher or Lower 2/README.md" />
       <change beforePath="$PROJECT_DIR$/MiniMax_Practice/375 Guess Number Higher or Lower 2/solution.py" afterPath="$PROJECT_DIR$/MiniMax_Practice/375 Guess Number Higher or Lower 2/solution.py" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -47,11 +46,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="README.md" pinned="false" current-in-tab="true">
+      <file leaf-file-name="README.md" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/MiniMax_Practice/375 Guess Number Higher or Lower 2/README.md">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="225">
-              <caret line="15" column="7" lean-forward="false" selection-start-line="15" selection-start-column="7" selection-end-line="15" selection-end-column="7" />
+            <state relative-caret-position="285">
+              <caret line="19" column="84" lean-forward="false" selection-start-line="19" selection-start-column="23" selection-end-line="19" selection-end-column="84" />
               <folding />
             </state>
           </provider>
@@ -97,11 +96,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="solution.py" pinned="false" current-in-tab="false">
+      <file leaf-file-name="solution.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/MiniMax_Practice/375 Guess Number Higher or Lower 2/solution.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="150">
-              <caret line="10" column="46" lean-forward="true" selection-start-line="10" selection-start-column="46" selection-end-line="10" selection-end-column="46" />
+            <state relative-caret-position="450">
+              <caret line="30" column="60" lean-forward="true" selection-start-line="30" selection-start-column="60" selection-end-line="30" selection-end-column="60" />
               <folding />
             </state>
           </provider>
@@ -143,8 +142,8 @@
         <option value="$PROJECT_DIR$/MiniMax_Practice/374 Guess Number Higher or Lower/solution.py" />
         <option value="$PROJECT_DIR$/MiniMax_Practice/374 Guess Number Higher or Lower/README.md" />
         <option value="$PROJECT_DIR$/Binary_Search_Practice/374 Guess Number Higher or Lower/solution.py" />
-        <option value="$PROJECT_DIR$/MiniMax_Practice/375 Guess Number Higher or Lower 2/solution.py" />
         <option value="$PROJECT_DIR$/MiniMax_Practice/375 Guess Number Higher or Lower 2/README.md" />
+        <option value="$PROJECT_DIR$/MiniMax_Practice/375 Guess Number Higher or Lower 2/solution.py" />
       </list>
     </option>
   </component>
@@ -418,7 +417,14 @@
       <option name="project" value="LOCAL" />
       <updated>1522161898728</updated>
     </task>
-    <option name="localTasksCounter" value="23" />
+    <task id="LOCAL-00023" summary="reference for Q.375_medium">
+      <created>1522162038439</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1522162038439</updated>
+    </task>
+    <option name="localTasksCounter" value="24" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -489,7 +495,8 @@
     <MESSAGE value="reasoning for Q.374_easy" />
     <MESSAGE value="reasoning for Q.375_medium" />
     <MESSAGE value="progressing for Q.375_medium" />
-    <option name="LAST_COMMIT_MESSAGE" value="progressing for Q.375_medium" />
+    <MESSAGE value="reference for Q.375_medium" />
+    <option name="LAST_COMMIT_MESSAGE" value="reference for Q.375_medium" />
     <option name="REARRANGE_BEFORE_PROJECT_COMMIT" value="true" />
   </component>
   <component name="XDebuggerManager">
@@ -593,18 +600,18 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/MiniMax_Practice/375 Guess Number Higher or Lower 2/solution.py">
+    <entry file="file://$PROJECT_DIR$/MiniMax_Practice/375 Guess Number Higher or Lower 2/README.md">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="10" column="46" lean-forward="true" selection-start-line="10" selection-start-column="46" selection-end-line="10" selection-end-column="46" />
+        <state relative-caret-position="285">
+          <caret line="19" column="84" lean-forward="false" selection-start-line="19" selection-start-column="23" selection-end-line="19" selection-end-column="84" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/MiniMax_Practice/375 Guess Number Higher or Lower 2/README.md">
+    <entry file="file://$PROJECT_DIR$/MiniMax_Practice/375 Guess Number Higher or Lower 2/solution.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="225">
-          <caret line="15" column="7" lean-forward="false" selection-start-line="15" selection-start-column="7" selection-end-line="15" selection-end-column="7" />
+        <state relative-caret-position="450">
+          <caret line="30" column="60" lean-forward="true" selection-start-line="30" selection-start-column="60" selection-end-line="30" selection-end-column="60" />
           <folding />
         </state>
       </provider>
