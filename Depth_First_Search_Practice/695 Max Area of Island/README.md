@@ -16,7 +16,7 @@ if not visited, accumulate the area, and return the max
 
 ##### 简洁解法！
 
-[csdn blog](https://blog.csdn.net/wenqiwenqi123/article/details/78219709)
+[csdn blog](https://blog.csdn.net/wenqiwenqi123/article/details/78219709)<br />
 
 def maxAreaOfIsland(self, grid):
      m, n = len(grid), len(grid[0])
@@ -28,4 +28,4 @@ def maxAreaOfIsland(self, grid):
          return 0
 
      areas = [dfs(i, j) for i in range(m) for j in range(n) if grid[i][j]]
-     return max(areas) if areas else 0 
+     return max(areas) if areas else 0
