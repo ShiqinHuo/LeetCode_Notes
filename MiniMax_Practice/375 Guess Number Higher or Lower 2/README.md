@@ -6,7 +6,7 @@ to find the guarantee, we have to assume the worst case for Q.374 program
 <br />recursion until if n - left == 4 ---> add mid
 <br />if n - left == 3 ----> add mid
 
-Done!
+<br />Done!
 
 ### Recursion:
 s += mid until (n - left) == 3 or (n - left) == 4
