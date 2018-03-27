@@ -264,7 +264,14 @@
       <option name="project" value="LOCAL" />
       <updated>1522147081341</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="Reasoning for Q.486_medium">
+      <created>1522154325515</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1522154325515</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -306,7 +313,8 @@
     <MESSAGE value="Reasoning for Q.107" />
     <MESSAGE value="python solution for Q.515_medium" />
     <MESSAGE value="Reasoning for Q.515_medium" />
-    <option name="LAST_COMMIT_MESSAGE" value="Reasoning for Q.515_medium" />
+    <MESSAGE value="Reasoning for Q.486_medium" />
+    <option name="LAST_COMMIT_MESSAGE" value="Reasoning for Q.486_medium" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
