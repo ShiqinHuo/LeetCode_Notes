@@ -592,7 +592,14 @@
       <option name="project" value="LOCAL" />
       <updated>1522223273377</updated>
     </task>
-    <option name="localTasksCounter" value="46" />
+    <task id="LOCAL-00046" summary="ideas for Q.200_medium">
+      <created>1522225430497</created>
+      <option name="number" value="00046" />
+      <option name="presentableId" value="LOCAL-00046" />
+      <option name="project" value="LOCAL" />
+      <updated>1522225430497</updated>
+    </task>
+    <option name="localTasksCounter" value="47" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -650,7 +657,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Reasoning for Q.486_medium" />
     <MESSAGE value="python solution for Q.486_medium" />
     <MESSAGE value="python debugging reflect for Q.486_medium" />
     <MESSAGE value="python recursion &amp; binary search for Q.374_easy" />
@@ -675,7 +681,8 @@
     <MESSAGE value="recursion reasoning by lambda - Q.690!!!" />
     <MESSAGE value="elegant solution by recursion dfs - Q.690!!!" />
     <MESSAGE value="something to say/写在前面的话" />
-    <option name="LAST_COMMIT_MESSAGE" value="something to say/写在前面的话" />
+    <MESSAGE value="ideas for Q.200_medium" />
+    <option name="LAST_COMMIT_MESSAGE" value="ideas for Q.200_medium" />
     <option name="REARRANGE_BEFORE_PROJECT_COMMIT" value="true" />
   </component>
   <component name="XDebuggerManager">
