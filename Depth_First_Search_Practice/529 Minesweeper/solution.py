@@ -10,7 +10,7 @@ class Solution:
         def detect_neighbours(y, x, updated):
             c = 0
             neighbours = [(y - 1, x), (y + 1, x), (y, x - 1), (y, x + 1), (y + 1, x + 1), (y + 1, x - 1),
-                          (y - 1, x + 1), (y - 1, x + 1)]
+                          (y - 1, x + 1), (y - 1, x - 1)]
             # valid_neighbours = [(i, j) for (i, j) in neighbours if (0 <= i < h) and (0 <= j < w)]
             for i, j in neighbours:
                 if 0 <= i < h and 0 <= j < w:
@@ -18,14 +18,18 @@ class Solution:
                         c += 1
 
             if c != 0: board[y][x] = str(c)
-            if c == 0:board[y][x] = "B"
+            if c == 0:
+                board[y][x] = "B"
+                for i, j in neighbours:
+                    if 0 <= i < h and 0 <= j < w:
+                        if (i, j) not in updated:
+                            if board[i][j] == "E":
+                                detect_neighbours(i, j, updated)
+                            else:
+                                continue
             updated.append((y, x))
 
-            for i, j in neighbours:
-                if 0 <= i < h and 0 <= j < w:
-                    if (i, j) not in updated:
-                        detect_neighbours(i, j, updated)
-        print(h,w)
+        print(h, w)
         if 0 <= click[0] < h and 0 <= click[1] < w:
             if board[click[0]][click[1]] == "M":
                 board[click[0]][click[1]] = "X"
