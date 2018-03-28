@@ -2,9 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2349b7be-9f22-4e60-bbb8-3c4545345be8" name="Default" comment="elegant solution by recursion dfs - Q.690!!!">
-      <change beforePath="" afterPath="$PROJECT_DIR$/Depth_First_Search_Practice/529 Minesweeper/README.md" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/Depth_First_Search_Practice/529 Minesweeper/solution.py" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change beforePath="$PROJECT_DIR$/Depth_First_Search_Practice/529 Minesweeper/solution.py" afterPath="$PROJECT_DIR$/Depth_First_Search_Practice/529 Minesweeper/solution.py" />
       <change beforePath="$PROJECT_DIR$/Depth_First_Search_Practice/695 Max Area of Island/solution.py" afterPath="$PROJECT_DIR$/Depth_First_Search_Practice/695 Max Area of Island/solution.py" />
       <change beforePath="$PROJECT_DIR$/MiniMax_Practice/486 Predict the Winner/solution.py" afterPath="$PROJECT_DIR$/MiniMax_Practice/486 Predict the Winner/solution.py" />
     </list>
@@ -102,8 +101,8 @@
       <file leaf-file-name="solution.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Depth_First_Search_Practice/529 Minesweeper/solution.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="480">
-              <caret line="32" column="20" lean-forward="false" selection-start-line="32" selection-start-column="20" selection-end-line="32" selection-end-column="20" />
+            <state relative-caret-position="495">
+              <caret line="33" column="20" lean-forward="false" selection-start-line="33" selection-start-column="20" selection-end-line="33" selection-end-column="20" />
               <folding />
             </state>
           </provider>
@@ -179,8 +178,8 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="258" />
-    <option name="y" value="51" />
+    <option name="x" value="126" />
+    <option name="y" value="63" />
     <option name="width" value="1251" />
     <option name="height" value="636" />
   </component>
@@ -610,11 +609,18 @@
       <option name="project" value="LOCAL" />
       <updated>1522232327603</updated>
     </task>
-    <option name="localTasksCounter" value="49" />
+    <task id="LOCAL-00049" summary="ggggg - Q.529_medium">
+      <created>1522241040128</created>
+      <option name="number" value="00049" />
+      <option name="presentableId" value="LOCAL-00049" />
+      <option name="project" value="LOCAL" />
+      <updated>1522241040128</updated>
+    </task>
+    <option name="localTasksCounter" value="50" />
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="258" y="51" width="1251" height="636" extended-state="0" />
+    <frame x="126" y="63" width="1251" height="636" extended-state="0" />
     <layout>
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
@@ -622,7 +628,7 @@
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32998565" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.30769232" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.30769232" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.0" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="SciView" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -667,7 +673,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="python recursion &amp; binary search for Q.374_easy" />
     <MESSAGE value="reasoning for Q.374_easy" />
     <MESSAGE value="reasoning for Q.375_medium" />
     <MESSAGE value="progressing for Q.375_medium" />
@@ -692,7 +697,8 @@
     <MESSAGE value="ideas for Q.200_medium" />
     <MESSAGE value="RuntimeError for large files - Q.200_medium!" />
     <MESSAGE value="python solution for Q.200_medium！*****" />
-    <option name="LAST_COMMIT_MESSAGE" value="python solution for Q.200_medium！*****" />
+    <MESSAGE value="ggggg - Q.529_medium" />
+    <option name="LAST_COMMIT_MESSAGE" value="ggggg - Q.529_medium" />
     <option name="REARRANGE_BEFORE_PROJECT_COMMIT" value="true" />
   </component>
   <component name="XDebuggerManager">
@@ -1071,8 +1077,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Depth_First_Search_Practice/529 Minesweeper/solution.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="480">
-          <caret line="32" column="20" lean-forward="false" selection-start-line="32" selection-start-column="20" selection-end-line="32" selection-end-column="20" />
+        <state relative-caret-position="495">
+          <caret line="33" column="20" lean-forward="false" selection-start-line="33" selection-start-column="20" selection-end-line="33" selection-end-column="20" />
           <folding />
         </state>
       </provider>
