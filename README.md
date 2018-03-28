@@ -13,7 +13,7 @@ ago. The second best time is now." This moment is the earliest time to start pra
 
 I will record my reasoning and common bugs in the README.md for each folder for my review.
 
-As my initial plan, I will finished medium & easy first to build my confidence before challenging <br />myself.
+As my initial plan, I will finish medium & easy first to build my confidence before challenging <br />myself.
 
 Also, BFS,DFS,Tree,Graph will be allocated with higher priority due to their higher frequency and <br />significance.
 

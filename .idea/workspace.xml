@@ -40,8 +40,8 @@
       <file leaf-file-name="README.md" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/README.md">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="85">
-              <caret line="7" column="27" lean-forward="false" selection-start-line="7" selection-start-column="27" selection-end-line="7" selection-end-column="27" />
+            <state relative-caret-position="146">
+              <caret line="12" column="0" lean-forward="true" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -564,7 +564,14 @@
       <option name="project" value="LOCAL" />
       <updated>1522222938458</updated>
     </task>
-    <option name="localTasksCounter" value="44" />
+    <task id="LOCAL-00044" summary="something to say/写在前面的话">
+      <created>1522223224933</created>
+      <option name="number" value="00044" />
+      <option name="presentableId" value="LOCAL-00044" />
+      <option name="project" value="LOCAL" />
+      <updated>1522223224933</updated>
+    </task>
+    <option name="localTasksCounter" value="45" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -622,7 +629,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Reasoning for Q.515_medium" />
     <MESSAGE value="Reasoning for Q.486_medium" />
     <MESSAGE value="python solution for Q.486_medium" />
     <MESSAGE value="python debugging reflect for Q.486_medium" />
@@ -647,7 +653,8 @@
     <MESSAGE value="elegant solution - Q.695!!!" />
     <MESSAGE value="recursion reasoning by lambda - Q.690!!!" />
     <MESSAGE value="elegant solution by recursion dfs - Q.690!!!" />
-    <option name="LAST_COMMIT_MESSAGE" value="elegant solution by recursion dfs - Q.690!!!" />
+    <MESSAGE value="something to say/写在前面的话" />
+    <option name="LAST_COMMIT_MESSAGE" value="something to say/写在前面的话" />
     <option name="REARRANGE_BEFORE_PROJECT_COMMIT" value="true" />
   </component>
   <component name="XDebuggerManager">
@@ -1023,8 +1030,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="7" column="27" lean-forward="false" selection-start-line="7" selection-start-column="27" selection-end-line="7" selection-end-column="27" />
+        <state relative-caret-position="146">
+          <caret line="12" column="0" lean-forward="true" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
           <folding />
         </state>
       </provider>
