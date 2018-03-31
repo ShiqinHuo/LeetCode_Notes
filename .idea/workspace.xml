@@ -3,9 +3,11 @@
   <component name="ChangeListManager">
     <list default="true" id="2349b7be-9f22-4e60-bbb8-3c4545345be8" name="Default" comment="elegant solution by recursion dfs - Q.690!!!">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/Depth_First_Search_Practice/529 Minesweeper/solution.py" afterPath="$PROJECT_DIR$/Depth_First_Search_Practice/529 Minesweeper/solution.py" />
+      <change beforePath="$PROJECT_DIR$/Binary_Search_Practice/374 Guess Number Higher or Lower/solution.py" afterPath="$PROJECT_DIR$/Binary_Search_Practice/374 Guess Number Higher or Lower/solution.py" />
       <change beforePath="$PROJECT_DIR$/Depth_First_Search_Practice/695 Max Area of Island/solution.py" afterPath="$PROJECT_DIR$/Depth_First_Search_Practice/695 Max Area of Island/solution.py" />
       <change beforePath="$PROJECT_DIR$/MiniMax_Practice/486 Predict the Winner/solution.py" afterPath="$PROJECT_DIR$/MiniMax_Practice/486 Predict the Winner/solution.py" />
+      <change beforePath="$PROJECT_DIR$/Recursion/779 K-th Symbol in Grammar/README.md" afterPath="$PROJECT_DIR$/Recursion_Practice/779 K-th Symbol in Grammar/README.md" />
+      <change beforePath="$PROJECT_DIR$/Recursion/779 K-th Symbol in Grammar/solution.py" afterPath="$PROJECT_DIR$/Recursion_Practice/779 K-th Symbol in Grammar/solution.py" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -29,100 +31,40 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file leaf-file-name="README.md" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/README.md">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="180">
-              <caret line="12" column="0" lean-forward="false" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="README.md" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Depth_First_Search_Practice/515 Find Largest Value in Each Tree Row/README.md">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="165">
-              <caret line="11" column="0" lean-forward="false" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="solution.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Depth_First_Search_Practice/695 Max Area of Island/solution.py">
+        <entry file="file://$PROJECT_DIR$/Recursion_Practice/687 Longest Univalue Path/README.md">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="135">
-              <caret line="9" column="48" lean-forward="false" selection-start-line="9" selection-start-column="48" selection-end-line="9" selection-end-column="48" />
+              <caret line="9" column="0" lean-forward="true" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="README.md" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Depth_First_Search_Practice/200 Number of Islands/README.md">
+      <file leaf-file-name="solution.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Recursion_Practice/687 Longest Univalue Path/solution.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="60">
-              <caret line="4" column="17" lean-forward="false" selection-start-line="4" selection-start-column="17" selection-end-line="4" selection-end-column="17" />
+            <state relative-caret-position="150">
+              <caret line="10" column="40" lean-forward="true" selection-start-line="10" selection-start-column="40" selection-end-line="10" selection-end-column="40" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="README.md" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Depth_First_Search_Practice/529 Minesweeper/README.md">
+      <file leaf-file-name="README.md" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Recursion_Practice/779 K-th Symbol in Grammar/README.md">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <caret line="0" column="17" lean-forward="true" selection-start-line="0" selection-start-column="17" selection-end-line="0" selection-end-column="17" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
       <file leaf-file-name="solution.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Depth_First_Search_Practice/200 Number of Islands/solution.py">
+        <entry file="file://$PROJECT_DIR$/Recursion_Practice/779 K-th Symbol in Grammar/solution.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="120">
-              <caret line="8" column="12" lean-forward="false" selection-start-line="8" selection-start-column="12" selection-end-line="8" selection-end-column="40" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="solution.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/MiniMax_Practice/486 Predict the Winner/solution.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="75">
-              <caret line="5" column="16" lean-forward="false" selection-start-line="5" selection-start-column="16" selection-end-line="5" selection-end-column="16" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="solution.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Depth_First_Search_Practice/529 Minesweeper/solution.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="555">
-              <caret line="37" column="20" lean-forward="false" selection-start-line="37" selection-start-column="20" selection-end-line="37" selection-end-column="20" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="README.md" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Depth_First_Search_Practice/695 Max Area of Island/README.md">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="480">
-              <caret line="32" column="3" lean-forward="false" selection-start-line="32" selection-start-column="3" selection-end-line="32" selection-end-column="3" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="solution.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Depth_First_Search_Practice/690 Employee Importance/solution.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="255">
-              <caret line="17" column="33" lean-forward="true" selection-start-line="17" selection-start-column="33" selection-end-line="17" selection-end-column="33" />
+            <state relative-caret-position="150">
+              <caret line="10" column="60" lean-forward="false" selection-start-line="10" selection-start-column="60" selection-end-line="10" selection-end-column="60" />
               <folding />
             </state>
           </provider>
@@ -168,6 +110,12 @@
         <option value="$PROJECT_DIR$/Depth_First_Search_Practice/200 Number of Islands/solution.py" />
         <option value="$PROJECT_DIR$/MiniMax_Practice/486 Predict the Winner/solution.py" />
         <option value="$PROJECT_DIR$/Depth_First_Search_Practice/529 Minesweeper/solution.py" />
+        <option value="$PROJECT_DIR$/Recursion/solution.py" />
+        <option value="$PROJECT_DIR$/Recursion/779 K-th Symbol in Grammar/README.md" />
+        <option value="$PROJECT_DIR$/Recursion/779 K-th Symbol in Grammar/solution.py" />
+        <option value="$PROJECT_DIR$/Recursion/687 Longest Univalue Path/solution.py" />
+        <option value="$PROJECT_DIR$/Recursion_Practice/687 Longest Univalue Path/solution.py" />
+        <option value="$PROJECT_DIR$/Recursion_Practice/687 Longest Univalue Path/README.md" />
       </list>
     </option>
   </component>
@@ -178,8 +126,8 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="126" />
-    <option name="y" value="63" />
+    <option name="x" value="170" />
+    <option name="y" value="93" />
     <option name="width" value="1251" />
     <option name="height" value="636" />
   </component>
@@ -209,24 +157,19 @@
             <path>
               <item name="LeetCode_Rookie" type="b2602c69:ProjectViewProjectNode" />
               <item name="LeetCode_Rookie" type="462c0819:PsiDirectoryNode" />
-              <item name="Breadth_First_Search_Practice" type="462c0819:PsiDirectoryNode" />
+              <item name="Recursion_Practice" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="LeetCode_Rookie" type="b2602c69:ProjectViewProjectNode" />
               <item name="LeetCode_Rookie" type="462c0819:PsiDirectoryNode" />
-              <item name="Depth_First_Search_Practice" type="462c0819:PsiDirectoryNode" />
+              <item name="Recursion_Practice" type="462c0819:PsiDirectoryNode" />
+              <item name="687 Longest Univalue Path" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="LeetCode_Rookie" type="b2602c69:ProjectViewProjectNode" />
               <item name="LeetCode_Rookie" type="462c0819:PsiDirectoryNode" />
-              <item name="Depth_First_Search_Practice" type="462c0819:PsiDirectoryNode" />
-              <item name="200 Number of Islands" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="LeetCode_Rookie" type="b2602c69:ProjectViewProjectNode" />
-              <item name="LeetCode_Rookie" type="462c0819:PsiDirectoryNode" />
-              <item name="Depth_First_Search_Practice" type="462c0819:PsiDirectoryNode" />
-              <item name="529 Minesweeper" type="462c0819:PsiDirectoryNode" />
+              <item name="Recursion_Practice" type="462c0819:PsiDirectoryNode" />
+              <item name="779 K-th Symbol in Grammar" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -240,11 +183,12 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
   </component>
   <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/Recursion/779 K-th Symbol in Grammar" />
+      <recent name="$PROJECT_DIR$/Binary_Search_Practice" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/Depth_First_Search_Practice" />
-    </key>
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/Binary_Search_Practice" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -272,41 +216,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1522142666035</updated>
-    </task>
-    <task id="LOCAL-00002" summary="Reasoning STEPS">
-      <created>1522144527981</created>
-      <option name="number" value="00002" />
-      <option name="presentableId" value="LOCAL-00002" />
-      <option name="project" value="LOCAL" />
-      <updated>1522144527981</updated>
-    </task>
-    <task id="LOCAL-00003" summary="Reasoning STEPS">
-      <created>1522144560052</created>
-      <option name="number" value="00003" />
-      <option name="presentableId" value="LOCAL-00003" />
-      <option name="project" value="LOCAL" />
-      <updated>1522144560052</updated>
-    </task>
-    <task id="LOCAL-00004" summary="Reasoning STEPS">
-      <created>1522144607438</created>
-      <option name="number" value="00004" />
-      <option name="presentableId" value="LOCAL-00004" />
-      <option name="project" value="LOCAL" />
-      <updated>1522144607438</updated>
-    </task>
-    <task id="LOCAL-00005" summary="python solution for Q.107_easy">
-      <created>1522146115970</created>
-      <option name="number" value="00005" />
-      <option name="presentableId" value="LOCAL-00005" />
-      <option name="project" value="LOCAL" />
-      <updated>1522146115970</updated>
-    </task>
-    <task id="LOCAL-00006" summary="revised workspace.xml">
-      <created>1522146133077</created>
-      <option name="number" value="00006" />
-      <option name="presentableId" value="LOCAL-00006" />
-      <option name="project" value="LOCAL" />
-      <updated>1522146133077</updated>
     </task>
     <task id="LOCAL-00007" summary="Reasoning for Q.107">
       <created>1522146275943</created>
@@ -616,11 +525,46 @@
       <option name="project" value="LOCAL" />
       <updated>1522241932740</updated>
     </task>
-    <option name="localTasksCounter" value="51" />
+    <task id="LOCAL-00051" summary="recursive python solution - Q.529">
+      <created>1522242964084</created>
+      <option name="number" value="00051" />
+      <option name="presentableId" value="LOCAL-00051" />
+      <option name="project" value="LOCAL" />
+      <updated>1522242964085</updated>
+    </task>
+    <task id="LOCAL-00052" summary="reasoning for Q.779_medium">
+      <created>1522465554680</created>
+      <option name="number" value="00052" />
+      <option name="presentableId" value="LOCAL-00052" />
+      <option name="project" value="LOCAL" />
+      <updated>1522465554680</updated>
+    </task>
+    <task id="LOCAL-00053" summary="Solution by recursion - Q.779_medium">
+      <created>1522465610147</created>
+      <option name="number" value="00053" />
+      <option name="presentableId" value="LOCAL-00053" />
+      <option name="project" value="LOCAL" />
+      <updated>1522465610147</updated>
+    </task>
+    <task id="LOCAL-00054" summary="Reasoning for Q.687_easy">
+      <created>1522471393116</created>
+      <option name="number" value="00054" />
+      <option name="presentableId" value="LOCAL-00054" />
+      <option name="project" value="LOCAL" />
+      <updated>1522471393116</updated>
+    </task>
+    <task id="LOCAL-00055" summary="updated folder name">
+      <created>1522471457248</created>
+      <option name="number" value="00055" />
+      <option name="presentableId" value="LOCAL-00055" />
+      <option name="project" value="LOCAL" />
+      <updated>1522471457248</updated>
+    </task>
+    <option name="localTasksCounter" value="56" />
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="126" y="63" width="1251" height="636" extended-state="0" />
+    <frame x="170" y="93" width="1251" height="636" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -632,6 +576,7 @@
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3126551" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.0" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32902032" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="SciView" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -641,7 +586,6 @@
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
     <layout-to-restore>
@@ -674,11 +618,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="reasoning for Q.375_medium" />
-    <MESSAGE value="progressing for Q.375_medium" />
-    <MESSAGE value="reference for Q.375_medium" />
-    <MESSAGE value="python solution for Q.375_medium ***" />
-    <MESSAGE value="python solution for Q.349_easy ***" />
     <MESSAGE value="waits for re-implementation by DFS" />
     <MESSAGE value="python solution for Q.104_easy ***" />
     <MESSAGE value="reasoning for Q.695_easy ***" />
@@ -699,7 +638,12 @@
     <MESSAGE value="python solution for Q.200_medium！*****" />
     <MESSAGE value="ggggg - Q.529_medium" />
     <MESSAGE value="gggggg - Q.529" />
-    <option name="LAST_COMMIT_MESSAGE" value="gggggg - Q.529" />
+    <MESSAGE value="recursive python solution - Q.529" />
+    <MESSAGE value="reasoning for Q.779_medium" />
+    <MESSAGE value="Solution by recursion - Q.779_medium" />
+    <MESSAGE value="Reasoning for Q.687_easy" />
+    <MESSAGE value="updated folder name" />
+    <option name="LAST_COMMIT_MESSAGE" value="updated folder name" />
     <option name="REARRANGE_BEFORE_PROJECT_COMMIT" value="true" />
   </component>
   <component name="XDebuggerManager">
@@ -707,36 +651,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Depth_First_Search_Practice/104 Maximum Depth of Binary Tree/solution.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="16" column="78" lean-forward="false" selection-start-line="16" selection-start-column="78" selection-end-line="16" selection-end-column="78" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Depth_First_Search_Practice/695 Max Area of Island/README.md">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="480">
-          <caret line="32" column="3" lean-forward="true" selection-start-line="32" selection-start-column="3" selection-end-line="32" selection-end-column="3" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Depth_First_Search_Practice/695 Max Area of Island/solution.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="14" column="22" lean-forward="false" selection-start-line="14" selection-start-column="22" selection-end-line="14" selection-end-column="22" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Binary_Search_Practice/374 Guess Number Higher or Lower/solution.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/MiniMax_Practice/375 Guess Number Higher or Lower 2/README.md">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="285">
@@ -1026,26 +940,18 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/Depth_First_Search_Practice/529 Minesweeper/solution.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="401">
+          <caret line="37" column="20" lean-forward="false" selection-start-line="37" selection-start-column="20" selection-end-line="37" selection-end-column="20" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/MiniMax_Practice/486 Predict the Winner/solution.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="75">
           <caret line="5" column="16" lean-forward="false" selection-start-line="5" selection-start-column="16" selection-end-line="5" selection-end-column="16" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Depth_First_Search_Practice/695 Max Area of Island/README.md">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="480">
-          <caret line="32" column="3" lean-forward="false" selection-start-line="32" selection-start-column="3" selection-end-line="32" selection-end-column="3" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Depth_First_Search_Practice/200 Number of Islands/README.md">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="4" column="17" lean-forward="false" selection-start-line="4" selection-start-column="17" selection-end-line="4" selection-end-column="17" />
           <folding />
         </state>
       </provider>
@@ -1066,10 +972,50 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Depth_First_Search_Practice/529 Minesweeper/solution.py">
+    <entry file="file://$PROJECT_DIR$/Depth_First_Search_Practice/695 Max Area of Island/README.md">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="555">
-          <caret line="37" column="20" lean-forward="false" selection-start-line="37" selection-start-column="20" selection-end-line="37" selection-end-column="20" />
+        <state relative-caret-position="396">
+          <caret line="32" column="3" lean-forward="false" selection-start-line="32" selection-start-column="3" selection-end-line="32" selection-end-column="3" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Depth_First_Search_Practice/200 Number of Islands/README.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="17" lean-forward="false" selection-start-line="4" selection-start-column="17" selection-end-line="4" selection-end-column="17" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Recursion_Practice/779 K-th Symbol in Grammar/solution.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" column="60" lean-forward="false" selection-start-line="10" selection-start-column="60" selection-end-line="10" selection-end-column="60" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Recursion_Practice/687 Longest Univalue Path/solution.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" column="40" lean-forward="true" selection-start-line="10" selection-start-column="40" selection-end-line="10" selection-end-column="40" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Recursion_Practice/687 Longest Univalue Path/README.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="9" column="0" lean-forward="true" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Recursion_Practice/779 K-th Symbol in Grammar/README.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="17" lean-forward="true" selection-start-line="0" selection-start-column="17" selection-end-line="0" selection-end-column="17" />
           <folding />
         </state>
       </provider>
