@@ -17,3 +17,5 @@ class Solution:
 
         Max = self.recursion(root)
         return self.ans
+
+## reference: http://zxi.mytechroad.com/blog/tree/leetcode-687-longest-univalue-path/
