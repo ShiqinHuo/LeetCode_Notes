@@ -5,14 +5,17 @@ class Solution:
         :type t2: TreeNode
         :rtype: TreeNode
         """
-        if not t1 and not t2:  # t1 none & t2 none
+        if not t1 and not t2:
+            # t1 none & t2 none
             return None
-        elif not t1:  # t1 none t2 true
+        elif not t1:
+            # t1 none t2 true
             t = t2
             # t = TreeNode(t2.val)
             # t.left = t2.left
             # t.right = t2.right
-        elif not t2:  # t1 true t2 none
+        elif not t2:
+            # t1 true t2 none
             t = t1
             # t = TreeNode(t1.val)
             # # t.left = t1.left
