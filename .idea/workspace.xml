@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2349b7be-9f22-4e60-bbb8-3c4545345be8" name="Default" comment="elegant solution by recursion dfs - Q.690!!!">
-      <change afterPath="$PROJECT_DIR$/Elementary_Practice/238 Product of Array Except Self/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Elementary_Practice/238 Product of Array Except Self/solution.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Elementary_Practice/448 Find All Numbers Disappeared in an Array/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Elementary_Practice/448 Find All Numbers Disappeared in an Array/solution.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -30,7 +30,7 @@
     <session id="-1176304815">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="3" />
+          <entry key="project.closed" value="4" />
           <entry key="project.open.time.2" value="1" />
           <entry key="project.open.time.5" value="1" />
           <entry key="project.open.time.8" value="2" />
@@ -40,15 +40,15 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="md" value="12" />
-          <entry key="py" value="13" />
+          <entry key="md" value="13" />
+          <entry key="py" value="14" />
           <entry key="xml" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="Markdown" value="12" />
-          <entry key="Python" value="13" />
+          <entry key="Markdown" value="13" />
+          <entry key="Python" value="14" />
           <entry key="XML" value="1" />
         </counts>
       </usages-collector>
@@ -73,27 +73,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Dynamic_Programming_Practice/Bit_Manipulation_Practice/136 Single Number/solution.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="105">
-              <caret line="7" selection-start-line="7" selection-end-line="7" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Dynamic_Programming_Practice/Bit_Manipulation_Practice/136 Single Number/README.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="SPLIT">
-              <first_editor>
-                <caret column="24" selection-start-column="24" selection-end-column="24" />
-              </first_editor>
-              <second_editor />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Dynamic_Programming_Practice/647 Palindromic Substrings/soluton.py">
           <provider selected="true" editor-type-id="text-editor">
@@ -130,13 +109,28 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Elementary_Practice/238 Product of Array Except Self/README.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="81">
-                <caret line="20" lean-forward="true" selection-start-line="20" selection-end-line="20" />
+              <first_editor relative-caret-position="186">
+                <caret line="27" column="21" lean-forward="true" selection-start-line="27" selection-start-column="21" selection-end-line="27" selection-end-column="21" />
               </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Elementary_Practice/448 Find All Numbers Disappeared in an Array/solution.py">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Elementary_Practice/448 Find All Numbers Disappeared in an Array/README.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor />
               <second_editor />
             </state>
           </provider>
@@ -238,6 +232,7 @@
         <option value="$PROJECT_DIR$/Tree_Practice/94 Binary Tree Inorder Traversal/solution.py" />
         <option value="$PROJECT_DIR$/Elementary_Practice/238 Product of Array Except Self/solution.py" />
         <option value="$PROJECT_DIR$/Elementary_Practice/238 Product of Array Except Self/README.md" />
+        <option value="$PROJECT_DIR$/Elementary_Practice/448 Find All Numbers Disappeared in an Array/solution.py" />
       </list>
     </option>
   </component>
@@ -275,7 +270,7 @@
               <item name="LeetCode_Rookie" type="b2602c69:ProjectViewProjectNode" />
               <item name="LeetCode_Rookie" type="462c0819:PsiDirectoryNode" />
               <item name="Elementary_Practice" type="462c0819:PsiDirectoryNode" />
-              <item name="238 Product of Array Except Self" type="462c0819:PsiDirectoryNode" />
+              <item name="448 Find All Numbers Disappeared in an Array" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -287,7 +282,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1546281320137" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1546281437346" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="project.structure.last.edited" value="SDKs" />
     <property name="project.structure.proportion" value="0.15" />
@@ -359,7 +354,7 @@
       <workItem from="1542786022747" duration="70000" />
       <workItem from="1546275247560" duration="945000" />
       <workItem from="1546277191400" duration="915000" />
-      <workItem from="1546279827885" duration="1474000" />
+      <workItem from="1546279827885" duration="1694000" />
     </task>
     <task id="LOCAL-00007" summary="Reasoning for Q.107">
       <created>1522146275943</created>
@@ -708,7 +703,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="4286000" />
+    <option name="totallyTimeSpent" value="4506000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -722,7 +717,7 @@
   <component name="ToolWindowManager">
     <frame x="370" y="105" width="1251" height="784" extended-state="0" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.8109589" visible="true" weight="0.3432589" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.8109589" visible="true" weight="0.3432589" />
       <window_info id="Structure" order="1" weight="0.25" />
       <window_info id="Favorites" order="2" sideWeight="0.1890411" side_tool="true" weight="0.32754344" />
       <window_info id="Designer" order="3" />
@@ -737,7 +732,7 @@
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.3290441" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="8" visible="true" weight="0.5433526" />
+      <window_info anchor="bottom" id="Terminal" order="8" visible="true" weight="0.5433526" />
       <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
       <window_info anchor="bottom" id="Version Control" order="10" weight="0.3290441" />
       <window_info anchor="bottom" id="Python Console" order="11" />
@@ -812,20 +807,6 @@
     <option name="REARRANGE_BEFORE_PROJECT_COMMIT" value="true" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Binary_Search_Practice/374 Guess Number Higher or Lower/README.md">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="33" selection-start-column="33" selection-end-column="33" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Breadth_First_Search_Practice/513 Find Bottom Left Tree Value/README.md">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="7" column="14" selection-start-line="7" selection-start-column="14" selection-end-line="7" selection-end-column="14" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/MiniMax_Practice/486 Predict the Winner/README.md">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="60">
@@ -1183,9 +1164,20 @@
     <entry file="file://$PROJECT_DIR$/Elementary_Practice/238 Product of Array Except Self/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="81">
-            <caret line="20" lean-forward="true" selection-start-line="20" selection-end-line="20" />
+          <first_editor relative-caret-position="186">
+            <caret line="27" column="21" lean-forward="true" selection-start-line="27" selection-start-column="21" selection-end-line="27" selection-end-column="21" />
           </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Elementary_Practice/448 Find All Numbers Disappeared in an Array/solution.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Elementary_Practice/448 Find All Numbers Disappeared in an Array/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor />
           <second_editor />
         </state>
       </provider>
