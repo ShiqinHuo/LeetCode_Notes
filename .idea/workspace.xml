@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2349b7be-9f22-4e60-bbb8-3c4545345be8" name="Default" comment="elegant solution by recursion dfs - Q.690!!!">
-      <change afterPath="$PROJECT_DIR$/MiniMax_Practice/46 Permutations/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MiniMax_Practice/46 Permutations/solution.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Binary_Search_Practice/287 Find the Duplicate Number/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Binary_Search_Practice/287 Find the Duplicate Number/solution.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -41,29 +41,30 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="md" value="16" />
-          <entry key="py" value="18" />
+          <entry key="md" value="18" />
+          <entry key="py" value="19" />
           <entry key="xml" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
           <entry key="Markdown" value="16" />
-          <entry key="Python" value="18" />
+          <entry key="PLAIN_TEXT" value="2" />
+          <entry key="Python" value="19" />
           <entry key="XML" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="dummy" value="16" />
-          <entry key="md" value="355" />
+          <entry key="md" value="400" />
           <entry key="py" value="25" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="Markdown" value="354" />
-          <entry key="PLAIN_TEXT" value="16" />
+          <entry key="Markdown" value="358" />
+          <entry key="PLAIN_TEXT" value="57" />
           <entry key="Python" value="26" />
         </counts>
       </usages-collector>
@@ -99,7 +100,7 @@
         <entry file="file://$PROJECT_DIR$/Elementary_Practice/347 Top K Frequent Elements/solution.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="131">
-              <caret line="11" column="24" lean-forward="true" selection-start-line="11" selection-start-column="24" selection-end-line="11" selection-end-column="24" />
+              <caret line="11" column="24" selection-start-line="11" selection-start-column="24" selection-end-line="11" selection-end-column="24" />
             </state>
           </provider>
         </entry>
@@ -120,7 +121,7 @@
         <entry file="file://$PROJECT_DIR$/Elementary_Practice/169 Majority Element/solution.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="180">
-              <caret line="12" column="46" lean-forward="true" selection-start-line="12" selection-start-column="46" selection-end-line="12" selection-end-column="46" />
+              <caret line="12" column="46" selection-start-line="12" selection-start-column="46" selection-end-line="12" selection-end-column="46" />
             </state>
           </provider>
         </entry>
@@ -139,25 +140,19 @@
       </file>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/MiniMax_Practice/46 Permutations/solution.py">
-          <provider selected="true" editor-type-id="text-editor" />
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="236">
+              <caret line="25" column="23" selection-start-line="25" selection-start-column="23" selection-end-line="25" selection-end-column="23" />
+            </state>
+          </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/MiniMax_Practice/46 Permutations/README.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor />
-              <second_editor />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Elementary_Practice/283 Move Zeroes/README.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="SPLIT">
-              <first_editor relative-caret-position="15">
-                <caret line="1" column="10" selection-start-line="1" selection-start-column="10" selection-end-line="1" selection-end-column="10" />
+              <first_editor relative-caret-position="233">
+                <caret line="28" column="23" selection-start-line="28" selection-start-column="23" selection-end-line="28" selection-end-column="23" />
               </first_editor>
               <second_editor />
             </state>
@@ -165,13 +160,19 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Dynamic_Programming_Practice/647 Palindromic Substrings/README.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="SPLIT">
-              <first_editor relative-caret-position="15">
-                <caret line="1" column="11" selection-start-line="1" selection-start-column="11" selection-end-line="1" selection-end-column="11" />
-              </first_editor>
-              <second_editor />
+        <entry file="file://$PROJECT_DIR$/Binary_Search_Practice/287 Find the Duplicate Number/solution.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="285">
+              <caret line="19" column="19" selection-start-line="19" selection-start-column="19" selection-end-line="19" selection-end-column="19" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Binary_Search_Practice/287 Find the Duplicate Number/README.md">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="258">
+              <caret line="22" column="8" selection-start-line="22" selection-start-column="8" selection-end-line="22" selection-end-column="8" />
             </state>
           </provider>
         </entry>
@@ -191,9 +192,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/Breadth_First_Search_Practice/107 Binary Tree Level Order Traversal II/README.md" />
-        <option value="$PROJECT_DIR$/Breadth_First_Search_Practice/515 Find Largest Value in Each Tree Row/solution.py" />
-        <option value="$PROJECT_DIR$/Breadth_First_Search_Practice/515 Find Largest Value in Each Tree Row/README.md" />
         <option value="$PROJECT_DIR$/MiniMax_Practice/486 Predict the Winner/README.md" />
         <option value="$PROJECT_DIR$/MiniMax_Practice/374 Guess Number Higher or Lower/solution.py" />
         <option value="$PROJECT_DIR$/MiniMax_Practice/374 Guess Number Higher or Lower/README.md" />
@@ -242,6 +240,9 @@
         <option value="$PROJECT_DIR$/Elementary_Practice/k/solution.py" />
         <option value="$PROJECT_DIR$/Elementary_Practice/169 Majority Element/README.md" />
         <option value="$PROJECT_DIR$/MiniMax_Practice/46 Permutations/solution.py" />
+        <option value="$PROJECT_DIR$/MiniMax_Practice/46 Permutations/README.md" />
+        <option value="$PROJECT_DIR$/Binary_Search_Practice/287 Find the Duplicate Number/solution.py" />
+        <option value="$PROJECT_DIR$/Binary_Search_Practice/287 Find the Duplicate Number/README.md" />
       </list>
     </option>
   </component>
@@ -272,13 +273,13 @@
             <path>
               <item name="LeetCode_Rookie" type="b2602c69:ProjectViewProjectNode" />
               <item name="LeetCode_Rookie" type="462c0819:PsiDirectoryNode" />
-              <item name="MiniMax_Practice" type="462c0819:PsiDirectoryNode" />
+              <item name="Binary_Search_Practice" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="LeetCode_Rookie" type="b2602c69:ProjectViewProjectNode" />
               <item name="LeetCode_Rookie" type="462c0819:PsiDirectoryNode" />
-              <item name="MiniMax_Practice" type="462c0819:PsiDirectoryNode" />
-              <item name="46 Permutations" type="462c0819:PsiDirectoryNode" />
+              <item name="Binary_Search_Practice" type="462c0819:PsiDirectoryNode" />
+              <item name="287 Find the Duplicate Number" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -291,7 +292,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1546282130233" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1546282439595" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="project.structure.last.edited" value="SDKs" />
     <property name="project.structure.proportion" value="0.15" />
@@ -364,7 +365,7 @@
       <workItem from="1546275247560" duration="945000" />
       <workItem from="1546277191400" duration="915000" />
       <workItem from="1546279827885" duration="1694000" />
-      <workItem from="1546281639209" duration="489000" />
+      <workItem from="1546281639209" duration="788000" />
     </task>
     <task id="LOCAL-00007" summary="Reasoning for Q.107">
       <created>1522146275943</created>
@@ -713,7 +714,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="4995000" />
+    <option name="totallyTimeSpent" value="5294000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -726,8 +727,9 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="370" y="105" width="1251" height="784" extended-state="0" />
+    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.8109589" visible="true" weight="0.3490488" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.8109589" visible="true" weight="0.3490488" />
       <window_info id="Structure" order="1" weight="0.25" />
       <window_info id="Favorites" order="2" sideWeight="0.1890411" side_tool="true" weight="0.32754344" />
       <window_info id="Designer" order="3" />
@@ -742,7 +744,7 @@
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.3290441" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="8" visible="true" weight="0.5433526" />
+      <window_info anchor="bottom" id="Terminal" order="8" visible="true" weight="0.5433526" />
       <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
       <window_info anchor="bottom" id="Version Control" order="10" weight="0.3290441" />
       <window_info anchor="bottom" id="Python Console" order="11" />
@@ -817,20 +819,6 @@
     <option name="REARRANGE_BEFORE_PROJECT_COMMIT" value="true" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Depth_First_Search_Practice/104 Maximum Depth of Binary Tree/README.md">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="16" selection-start-column="16" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Depth_First_Search_Practice/104 Maximum Depth of Binary Tree/solution.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="16" column="78" selection-start-line="16" selection-start-column="78" selection-end-line="16" selection-end-column="78" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Depth_First_Search_Practice/515 Find Largest Value in Each Tree Row/solution.py">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
@@ -1159,7 +1147,7 @@
     <entry file="file://$PROJECT_DIR$/Elementary_Practice/347 Top K Frequent Elements/solution.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="131">
-          <caret line="11" column="24" lean-forward="true" selection-start-line="11" selection-start-column="24" selection-end-line="11" selection-end-column="24" />
+          <caret line="11" column="24" selection-start-line="11" selection-start-column="24" selection-end-line="11" selection-end-column="24" />
         </state>
       </provider>
     </entry>
@@ -1176,7 +1164,7 @@
     <entry file="file://$PROJECT_DIR$/Elementary_Practice/169 Majority Element/solution.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="180">
-          <caret line="12" column="46" lean-forward="true" selection-start-line="12" selection-start-column="46" selection-end-line="12" selection-end-column="46" />
+          <caret line="12" column="46" selection-start-line="12" selection-start-column="46" selection-end-line="12" selection-end-column="46" />
         </state>
       </provider>
     </entry>
@@ -1191,13 +1179,33 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/MiniMax_Practice/46 Permutations/solution.py">
-      <provider selected="true" editor-type-id="text-editor" />
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="236">
+          <caret line="25" column="23" selection-start-line="25" selection-start-column="23" selection-end-line="25" selection-end-column="23" />
+        </state>
+      </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/MiniMax_Practice/46 Permutations/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor />
+          <first_editor relative-caret-position="233">
+            <caret line="28" column="23" selection-start-line="28" selection-start-column="23" selection-end-line="28" selection-end-column="23" />
+          </first_editor>
           <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Binary_Search_Practice/287 Find the Duplicate Number/solution.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="19" column="19" selection-start-line="19" selection-start-column="19" selection-end-line="19" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Binary_Search_Practice/287 Find the Duplicate Number/README.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="258">
+          <caret line="22" column="8" selection-start-line="22" selection-start-column="8" selection-end-line="22" selection-end-column="8" />
         </state>
       </provider>
     </entry>
