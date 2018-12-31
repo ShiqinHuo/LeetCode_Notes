@@ -1,2 +1,1 @@
-#### 2 traversals
-#### need review
+#### 2 traversal
