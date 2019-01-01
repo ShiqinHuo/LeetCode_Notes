@@ -2,8 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2349b7be-9f22-4e60-bbb8-3c4545345be8" name="Default" comment="elegant solution by recursion dfs - Q.690!!!">
-      <change afterPath="$PROJECT_DIR$/Binary_Search_Practice/287 Find the Duplicate Number/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Binary_Search_Practice/287 Find the Duplicate Number/solution.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -30,7 +28,7 @@
     <session id="-1176304815">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="4" />
+          <entry key="project.closed" value="5" />
           <entry key="project.open.time.10" value="1" />
           <entry key="project.open.time.2" value="1" />
           <entry key="project.open.time.5" value="1" />
@@ -57,14 +55,14 @@
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="dummy" value="16" />
-          <entry key="md" value="400" />
+          <entry key="md" value="403" />
           <entry key="py" value="25" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="Markdown" value="358" />
-          <entry key="PLAIN_TEXT" value="57" />
+          <entry key="PLAIN_TEXT" value="60" />
           <entry key="Python" value="26" />
         </counts>
       </usages-collector>
@@ -171,8 +169,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Binary_Search_Practice/287 Find the Duplicate Number/README.md">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="258">
-              <caret line="22" column="8" selection-start-line="22" selection-start-column="8" selection-end-line="22" selection-end-column="8" />
+            <state relative-caret-position="135">
+              <caret line="9" column="28" lean-forward="true" selection-start-line="9" selection-start-column="28" selection-end-line="9" selection-end-column="28" />
             </state>
           </provider>
         </entry>
@@ -292,7 +290,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1546282439595" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1546343035353" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="project.structure.last.edited" value="SDKs" />
     <property name="project.structure.proportion" value="0.15" />
@@ -365,7 +363,7 @@
       <workItem from="1546275247560" duration="945000" />
       <workItem from="1546277191400" duration="915000" />
       <workItem from="1546279827885" duration="1694000" />
-      <workItem from="1546281639209" duration="788000" />
+      <workItem from="1546281639209" duration="1057000" />
     </task>
     <task id="LOCAL-00007" summary="Reasoning for Q.107">
       <created>1522146275943</created>
@@ -714,7 +712,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="5294000" />
+    <option name="totallyTimeSpent" value="5563000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -729,7 +727,7 @@
     <frame x="370" y="105" width="1251" height="784" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.8109589" visible="true" weight="0.3490488" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.8109589" visible="true" weight="0.3490488" />
       <window_info id="Structure" order="1" weight="0.25" />
       <window_info id="Favorites" order="2" sideWeight="0.1890411" side_tool="true" weight="0.32754344" />
       <window_info id="Designer" order="3" />
@@ -744,7 +742,7 @@
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.3290441" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Terminal" order="8" visible="true" weight="0.5433526" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="8" visible="true" weight="0.5433526" />
       <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
       <window_info anchor="bottom" id="Version Control" order="10" weight="0.3290441" />
       <window_info anchor="bottom" id="Python Console" order="11" />
@@ -1204,8 +1202,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Binary_Search_Practice/287 Find the Duplicate Number/README.md">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="258">
-          <caret line="22" column="8" selection-start-line="22" selection-start-column="8" selection-end-line="22" selection-end-column="8" />
+        <state relative-caret-position="135">
+          <caret line="9" column="28" lean-forward="true" selection-start-line="9" selection-start-column="28" selection-end-line="9" selection-end-column="28" />
         </state>
       </provider>
     </entry>
