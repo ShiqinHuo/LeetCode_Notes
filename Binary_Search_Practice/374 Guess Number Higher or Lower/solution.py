@@ -25,7 +25,7 @@ class Solution(object):
         #     if guess(mid) == 1:
         #         left = mid + 1
 
-        # Recursion:
+        # Recursion_Practice:
         return self.recursive_guess(1, n)
 
     def recursive_guess(self,bottom, up):

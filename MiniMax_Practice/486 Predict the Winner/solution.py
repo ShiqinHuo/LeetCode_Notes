@@ -10,7 +10,7 @@ class Solution:
         # tnums = tuple(nums)
         # move to the solve function
         def solve(nums):
-            ###BUG！ IndexError: list index out of range
+            ###BUG！IndexError: list index out of range
             if len(nums) <=1: return sum(nums)
             tnums = tuple(nums)
             if tnums in dic:

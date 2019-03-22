@@ -9,7 +9,8 @@ involved in ACM/JOI-IOI/NOI/GCJ ect programming contests.<br />
 
 Sometime, I'm dreaming, what if I started to learn algorithms 10 years ago. However, what's past <br />
 is the past. Chinese conventional wisdom has it that: "The best time to plant a tree was 20 years <br />
-ago. The second best time is now." This moment is the earliest time to start practicing via LeetCode<br /> platform.
+ago. The second best time is now." This moment is the earliest time to start practicing via LeetCode<br />
+platform.
 
 I will record my reasoning and common bugs in the README.md for each folder for my review.
 
