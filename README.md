@@ -1,4 +1,4 @@
-## LeetCode_Rookie
+## LeetCode_Notes
 #### Something to say:<br />
 
 As a computer science sophomore, the last year witnessed my first bite of the basic application<br />
