@@ -1,5 +1,8 @@
 class Solution {
     public List<List<Integer>> combinationSum2(int[] candidates, int target) {
+        // time O(2^n)
+        // space O(n) backtracking
+        
         List<List<Integer>> res = new ArrayList<>();
         if (candidates == null || candidates.length == 0) return res;
         Arrays.sort(candidates);
